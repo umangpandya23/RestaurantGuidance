@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="1sp"
+    android:background="@drawable/backkkk"
+    android:orientation="vertical"
+    tools:context=".ui.TermsActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5sp"
+        android:text="U.S. Merchant Terms and Conditions"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5sp"
+        android:text="BY ACCEPTING THIS AGREEMENT, BY (1) CLICKING A BOX INDICATING ACCEPTANCE OR (2) EXECUTING AN ORDER FORM OR ADDENDUM THAT REFERENCES THESE TERMS, MERCHANT AGREES TO THE TERMS OF THIS AGREEMENT.  IF THE INDIVIDUAL ACCEPTING THIS AGREEMENT IS ACCEPTING ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, SUCH INDIVIDUAL REPRESENTS THAT THEY HAVE THE AUTHORITY TO BIND SUCH ENTITY AND ITS AFFILIATES TO THESE TERMS, IN WHICH CASE THE TERM “MERCHANT” SHALL REFER TO SUCH ENTITY AND ITS AFFILIATES. IF THE INDIVIDUAL ACCEPTING THIS AGREEMENT DOES NOT HAVE SUCH AUTHORITY, OR DOES NOT AGREE WITH THESE TERMS AND CONDITIONS, SUCH INDIVIDUAL MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.  SECTION 17 OF THIS AGREEMENT CONTAINS PROVISIONS THAT GOVERN HOW CLAIMS THAT THE PARTIES HAVE AGAINST EACH OTHER ARE RESOLVED. INCLUDING WITHOUT LIMITATION A MANDATORY ARBITRATION PROVISION." />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5sp"
+        android:text="GENERAL"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5sp"
+        android:text='These Uber Eats Merchant Terms and Conditions ("Terms") are hereby accepted and agreed to by the company identified within the Uber Eats sign-up process ("Merchant or “You"), and constitute a legally binding agreement by and between Merchant and Portier LLC (“Portier” or “Company” which is a wholly owned subsidiary of Uber Technologies, Inc. (“Uber”)). Upon acceptance of these Terms, Merchant may request access to the Marketplace, Non-Delivery, or Merchant Managed Delivery Sales Channels (each a “Sales Channel” as described in more detail herein) and/or product services such as Promotions Tools. Such request shall indicate Merchant’s acceptance of any applicable Sales Channel terms (each a “Sales Channel Addendum”) and/or terms for additional product services (a “Product Addendum”). These Terms may be subject to and/or incorporate the Uber Eats Order Form (“Order Form”), and/or applicable Product or Sales Channel Addenda (these Terms and any such Order Form or any such Addendum collectively, the “Agreement”) or Terms of Use. Merchant’s access to and use of the Eats Services and Uber Tools (as defined below) is subject to the Agreement and may be modified or updated by Portier/Uber from time to time, effective upon posting an updated version of these Terms and/or an applicable Product or Sales Channel Addendum on the Uber website. Merchant is responsible for updating contact information and regularly reviewing the Terms and any applicable Product or Sales Channel Addendum for updates and information from Portier/Uber. Continued use of the Eats Services after any such modifications or updates shall constitute Merchant’s consent to such changes. Capitalized terms used but not otherwise defined in the Terms shall have the respective meanings ascribed to such terms in the applicable Order Form, Product or Sales Channel Addendum.' />
+</LinearLayout>

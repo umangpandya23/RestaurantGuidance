@@ -1,0 +1,38 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-restaurantguidance-dev-184934-authRole",
+            "UnauthRoleArn": "arn:aws:iam::887733939151:role/amplify-restaurantguidance-dev-184934-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::887733939151:role/amplify-restaurantguidance-dev-184934-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-restaurantguidance-dev-184934-deployment",
+            "UnauthRoleName": "amplify-restaurantguidance-dev-184934-unauthRole",
+            "StackName": "amplify-restaurantguidance-dev-184934",
+            "StackId": "arn:aws:cloudformation:us-east-1:887733939151:stack/amplify-restaurantguidance-dev-184934/b7766650-ce10-11ea-ae7c-0a28f59d0ab4",
+            "AmplifyAppId": "df08l14dqq6ny"
+        },
+        "categories": {
+            "auth": {
+                "restaurantguidance7d5fe860": {}
+            }
+        }
+    },
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-restaurantguidance-master-190949-authRole",
+            "UnauthRoleArn": "arn:aws:iam::887733939151:role/amplify-restaurantguidance-master-190949-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::887733939151:role/amplify-restaurantguidance-master-190949-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-restaurantguidance-master-190949-deployment",
+            "UnauthRoleName": "amplify-restaurantguidance-master-190949-unauthRole",
+            "StackName": "amplify-restaurantguidance-master-190949",
+            "StackId": "arn:aws:cloudformation:us-east-1:887733939151:stack/amplify-restaurantguidance-master-190949/8ac10ef0-ce13-11ea-9d91-0e167b726915",
+            "AmplifyAppId": "df08l14dqq6ny"
+        },
+        "categories": {
+            "auth": {
+                "restaurantguidance7d5fe860": {}
+            }
+        }
+    }
+}
